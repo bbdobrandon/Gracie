@@ -1,5 +1,5 @@
 {
-  "name": "chatbot-the-first",
+  "name": "gracie",
   "version": "1.0.0",
   "description": "First node.js chatbot",
   "main": "index.js",
@@ -11,9 +11,18 @@
   "dependencies": {
     "api-ai-recognizer": "^1.1.1",
     "apiai": "^4.0.3",
-    "botbuilder": "^3.14.0",
+    "botbuilder": "^3.14.1",
     "dotenv-extended": "^2.0.1",
     "express": "^4.16.2",
     "restify": "^6.3.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbdobrandon/Gracie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbdobrandon/Gracie/issues"
+  },
+  "homepage": "https://github.com/bbdobrandon/Gracie#readme"
 }
